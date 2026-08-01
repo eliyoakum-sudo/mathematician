@@ -20,4 +20,4 @@ Note: Numbers not followed by a + or - will not error but will not effect the co
 
 Computational class: finite state machine
 
-This includes: mathematician.html which is an interpreter
+This includes: math.html which is an interpreter
